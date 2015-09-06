@@ -1,6 +1,6 @@
 # leopard
 
-leopard-lang
+Leopard Lang
 
 	leopard-json:简化Json使用，可以在Jackson、FastJson切换.
 	leopard-httpnb:HttpUtils
@@ -12,7 +12,7 @@ JavaHost:JVM DNS
 
 AutoUnit:“全”自动化单元测试框架
 
-leopard-data:数据源操作
+Leopard Data:数据源操作
 
 	leopard-jdbc
 	leopard-redis
@@ -20,16 +20,16 @@ leopard-data:数据源操作
 	leopard-cache
 	leopard-memdb
 	
-leopard-test
+Leopard Test
 
 	leopard-mock、leopard-test、leopard-jetty
 	
-leopard-debug:调试模块
+Leopard Debug:调试模块
 
 	leopard-delay:页面随机延迟、报错
 	leopard-avgtime:请求平均耗时日志(分钟、小时、天)
 	
-leopard-mvc:MVC
+Leopard MVC:MVC
 
 	leopard-session:分布式session
 	leopard-passport:通行证验证、登陆等
@@ -39,14 +39,17 @@ leopard-mvc:MVC
 	leopard-xparam:请求特殊参数
 	leopard-proxy:webserver代理.
 	
-leopard-security
+Leopard Security:权限控制组件
 
-	leopard-allow、leopard-admin
+	leopard-allow:根据URL和IP判断访问权限
+	leopard-admin:根据账号判断访问权限.
 	
-nobug：安全框架
+Nobug：安全框架
 
-	nobug-csrf、nobug-xss
+	nobug-csrf:CSRF漏洞、JSONP劫持防范
+	nobug-xss:XSS漏洞访问
 
-topnb:监控框架
+TopNB:监控框架
 
-	topnb-profiler、topnb-web
+	topnb-profiler
+	topnb-web
