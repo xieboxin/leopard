@@ -2,11 +2,11 @@
 
 Leopard Lang
 
-	leopard-json:简化Json使用，可以在Jackson、FastJson切换.
-	leopard-httpnb:HttpUtils
-	leopard-timer:定时器
-	leopard-command:命令行程序支持
-	leopard-servlet:Cookie、ProxyIP、RequestURI获取等.
+* leopard-json:简化Json使用，可以在Jackson、FastJson切换.
+* leopard-httpnb:HttpUtils
+* leopard-timer:定时器
+* leopard-command:命令行程序支持
+* leopard-servlet:Cookie、ProxyIP、RequestURI获取等.
 	
 JavaHost:JVM DNS
 
