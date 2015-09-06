@@ -22,7 +22,9 @@ Leopard Data:数据源操作
 	
 Leopard Test
 
-	leopard-mock、leopard-test、leopard-jetty
+	leopard-mock:简化mock使用
+	leopard-test:集成测试
+	leopard-jetty:Jetty测试
 	
 Leopard Debug:调试模块
 
