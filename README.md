@@ -11,8 +11,8 @@
 
 [TopNB](http://github.com/tanhaichao/topnb):监控框架
 
-* topnb-profiler
-* topnb-web
+* topnb-profiler:方法耗时、线程数量、请求耗时等。
+* topnb-web:监控数据展现组件
 
 Leopard:各组件集成
 
