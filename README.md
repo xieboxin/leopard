@@ -14,11 +14,11 @@ AutoUnit:“全”自动化单元测试框架
 
 Leopard Data:数据源操作
 
-	leopard-jdbc
-	leopard-redis
-	leopard-memcache
-	leopard-cache
-	leopard-memdb
+	leopard-jdbc:MySQL操作
+	leopard-redis:Redis操作
+	leopard-memcache:Memcached操作
+	leopard-cache:缓存操作
+	leopard-memdb:内存数据库、PubSub(跨JVM数据同步).
 	
 Leopard Test
 
