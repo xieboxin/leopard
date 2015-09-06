@@ -27,6 +27,7 @@ leopard-test
 leopard-debug:调试模块
 
 	leopard-delay:页面随机延迟、报错
+	leopard-avgtime:请求平均耗时日志(分钟、小时、天)
 	
 leopard-mvc:MVC
 
