@@ -1,4 +1,4 @@
-# leopard
+# Leopard
 	
 [JavaHost](http://github.com/tanhaichao/javahost):JVM DNS
 
